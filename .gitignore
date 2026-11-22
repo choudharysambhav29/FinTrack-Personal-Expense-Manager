@@ -1,0 +1,22 @@
+# Executables and compiled objects
+*.exe
+*.o
+fintrack
+
+# Generated reports
+report.html
+
+# Local logs and temp files
+*.log
+*.tmp
+
+# Windows system files
+desktop.ini
+Thumbs.db
+
+# IDE / Editor configuration
+.vscode/
+.idea/
+*.cbp
+*.depend
+*.layout
